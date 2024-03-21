@@ -2,7 +2,6 @@
 
 > **وَأَن لَّيْسَ لِلْإِنسَانِ إِلَّا مَا سَعَىٰ**
 > 
-
 # 🕸️Networking
 
 ## What is Network?
@@ -76,8 +75,6 @@ Network topology refers to the way devices on a network are arranged and interco
 
 **1. Bus Topology**
 
-[https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRV62HgYCXrShWiFP1CoC-EKHnMpWF1pNq4v-Y3KazI-VHUwsVPLEOrJHApv1Dk](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRV62HgYCXrShWiFP1CoC-EKHnMpWF1pNq4v-Y3KazI-VHUwsVPLEOrJHApv1Dk)
-
 In a bus topology, all devices are connected to a single central cable, similar to a bus route.  Data packets travel along the cable, and all devices on the network receive the signal. Each device has a unique address that allows it to identify the intended recipient of the data.
 
 - **`Advantages`:** Simple to set up and implement, requires less cabling compared to some other topologies.
@@ -85,7 +82,6 @@ In a bus topology, all devices are connected to a single central cable, similar 
 
 **2. Star Topology**
 
-[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpy3d-KjqYvDZvquTPq-4AkrdE2KOiaAxutG98H8OUiTT9Qw3l892FW1804SoW](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpy3d-KjqYvDZvquTPq-4AkrdE2KOiaAxutG98H8OUiTT9Qw3l892FW1804SoW)
 
 In a star topology, each device has a dedicated connection to a central hub or switch. This central device acts as a control point, managing data flow and communication between devices. Data packets are only sent to the intended recipient, improving network efficiency and reducing collisions.
 
@@ -94,16 +90,12 @@ In a star topology, each device has a dedicated connection to a central hub or s
 
 **3. Ring Topology**
 
-[https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRyRljkAsE-0uHiRPujakNNyBkobEFC3wZcdjjac9ZNdbBbr3iZOCy1MXMjTJlU](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRyRljkAsE-0uHiRPujakNNyBkobEFC3wZcdjjac9ZNdbBbr3iZOCy1MXMjTJlU)
-
 In a ring topology, devices are connected in a closed loop, forming a ring. Data packets travel in one direction around the ring, passing through each device until they reach their destination. Each device acts as a repeater, regenerating the signal to maintain its strength as it travels around the loop.
 
 - **`Advantages`:** Can be more reliable than bus topology as data packets can continue to circulate even if one device fails.
 - **`Disadvantages`:** A break in the cable or a failure in one device can disrupt the entire network. Adding or removing devices can disrupt network traffic.
 
 **4. Mesh Topology**
-
-[https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSrToiHe6gvVmG2rVocRdjpikg5JWcFNMb-2_4VvNx0s8G75qC7ShOtkt7mv-T9](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSrToiHe6gvVmG2rVocRdjpikg5JWcFNMb-2_4VvNx0s8G75qC7ShOtkt7mv-T9)
 
 In a mesh topology, devices are interconnected with multiple paths between them, forming a web-like structure. Data packets can take various routes to reach their destination, providing redundancy and fault tolerance. Mesh networks are often used in wireless networks where devices can connect to each other directly or through multiple hops.
 
