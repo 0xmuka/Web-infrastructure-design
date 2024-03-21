@@ -1,4 +1,4 @@
-****# Web infrastructure design
+# Web infrastructure design
 
 > **وَأَن لَّيْسَ لِلْإِنسَانِ إِلَّا مَا سَعَىٰ**
 > 
